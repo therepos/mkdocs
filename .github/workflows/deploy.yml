@@ -25,10 +25,7 @@ jobs:
 
       - name: Install MkDocs and dependencies
         run: |
-          pip install \
-            mkdocs \
-            mkdocs-material \
-            mkdocs-git-revision-date-localized-plugin
+          pip install -r requirements.txt
 
       - name: Compute hash and rename styles.css
         run: |

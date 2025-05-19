@@ -1,0 +1,23 @@
+# Ignore Python cache and virtualenv
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+
+# MkDocs build output
+site/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs or editor temp files
+*.log
+*.swp
+*~
+
+# VS Code settings (optional)
+.vscode/
