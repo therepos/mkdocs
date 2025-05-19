@@ -1,4 +1,6 @@
 site_name: My Docs
+repo_url: https://github.com/your-username/mkdocs
+edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -8,8 +10,10 @@ theme:
     - navigation.indexes
     - navigation.tabs
     - navigation.path
-    - content.code.annotate
     - toc.follow
+    - content.code.annotate
+    - content.action.edit
+
   palette:
     - scheme: default
       primary: white
