@@ -319,9 +319,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#local" class="md-nav__link">
+  <a href="#local-deployment" class="md-nav__link">
     <span class="md-ellipsis">
-      Local
+      Local Deployment
     </span>
   </a>
   
@@ -380,9 +380,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#local" class="md-nav__link">
+  <a href="#local-deployment" class="md-nav__link">
     <span class="md-ellipsis">
-      Local
+      Local Deployment
     </span>
   </a>
   
@@ -414,34 +414,37 @@
 
 
 <h1 id="materialdocs">MaterialDocs<a class="headerlink" href="#materialdocs" title="Permanent link">&para;</a></h1>
-<p>This is a template to get a basic mkdocs site up and running in no time.<br />
-By default, the template is designed to deploy via GitHub Action on GitHub Pages.</p>
+<p>This is a template to get a basic MkDocs site up and running quickly.<br />
+By default, it deploys via GitHub Actions to GitHub Pages.</p>
 <h2 id="github-pages">GitHub Pages<a class="headerlink" href="#github-pages" title="Permanent link">&para;</a></h2>
 <p>To get started:
 1. Click the <code>Use this template</code> button (top-right).<br />
 2. Choose <code>Create a new repository</code>.<br />
 3. Enable GitHub Pages from <code>Settings</code> &gt; <code>Pages</code> &gt; <code>Deploy from Branch</code> &gt; <code>gh-pages</code><br />
-4. Run GitHub workflow by editing any of the Markdown file.<br />
-5. Access the site at your designated repo page, for example: https://therepos.github.io/mkdocs</p>
-<h2 id="local">Local<a class="headerlink" href="#local" title="Permanent link">&para;</a></h2>
+4. Trigger the GitHub Actions workflow by editing any Markdown file. 
+5. Visit your published site at:<br />
+<code>https://&lt;your-username&gt;.github.io/&lt;your-repo-name&gt;/</code> 
+    for example: https://therepos.github.io/mkdocs</p>
+<h2 id="local-deployment">Local Deployment<a class="headerlink" href="#local-deployment" title="Permanent link">&para;</a></h2>
 <p>1. To deploy it locally::  </p>
-<pre><code>git clone https://github.com/therepos/mkdocs.git
+<pre><code class="language-bash">git clone https://github.com/therepos/mkdocs.git
 </code></pre>
 <p>2. Install requirements:</p>
-<pre><code>cd mkdocs
+<pre><code class="language-bash">cd mkdocs
 pip install -r requirements.txt
 </code></pre>
 <p>3. Deploy locally:</p>
-<pre><code>mkdocs serve
+<pre><code class="language-bash">mkdocs serve
 </code></pre>
 <p>4. Push to GitHub repo:</p>
-<pre><code>git add . 
+<pre><code class="language-bash">git add . 
 git commit -m &quot;Updates&quot;
 git push
 </code></pre>
 <p>5. (Optional) Preview site locally only:</p>
-<pre><code>mkdocs build
+<pre><code class="language-bash">mkdocs build
 </code></pre>
+<hr />
 <h2 id="references">References<a class="headerlink" href="#references" title="Permanent link">&para;</a></h2>
 <p><a href="https://docusaurus.io/docs">Official Docusaurus Guide</a></p>
 
@@ -464,7 +467,7 @@ git push
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" title="May 19, 2025 00:21:41"><span class="timeago" datetime="2025-05-19T00:21:41+00:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="May 19, 2025 00:21:41">2025-05-19</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" title="May 19, 2025 00:25:37"><span class="timeago" datetime="2025-05-19T00:25:37+00:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="May 19, 2025 00:25:37">2025-05-19</span>
   </span>
 
     
