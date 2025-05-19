@@ -1,4 +1,4 @@
-# MaterialDocs
+# MkDocs
 
 This is a template to get a basic MkDocs site up and running quickly.  
 By default, it deploys via GitHub Actions to GitHub Pages.
@@ -45,4 +45,4 @@ mkdocs build
 ---
 
 ## References
-[Official Docusaurus Guide](https://docusaurus.io/docs)
+[Official MkDocs Guide](https://www.mkdocs.org/)
