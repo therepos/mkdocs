@@ -3,8 +3,6 @@
 This is a template to get a basic MkDocs site up and running quickly.  
 By default, it deploys via GitHub Actions to GitHub Pages.
 
----
-
 ## GitHub Pages
 To get started:
 
@@ -14,8 +12,6 @@ To get started:
 4\. Trigger the GitHub Actions workflow by editing any Markdown file.  
 5\. Visit your published site at: `https://<your-username>.github.io/<your-repo-name>/`  
 6\. For example: https://therepos.github.io/mkdocs
-
----
 
 ## Local Deployment
 1\. To deploy it locally::  
@@ -45,8 +41,6 @@ git push
 ```bash
 mkdocs build
 ```
-
----
 
 ## References
 [Official MkDocs Guide](https://www.mkdocs.org/)
