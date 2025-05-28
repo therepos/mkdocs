@@ -33,8 +33,12 @@ theme:
 
 plugins:
   - search
+  - awesome-pages
   - git-revision-date-localized:
       type: timeago
+  - redirects:
+      redirect_maps:
+        index.md: about/index.md
         
 markdown_extensions:
   - admonition
@@ -48,3 +52,7 @@ extra_css:
 extra:
   translation:
     banner: false
+
+nav:
+  - About: about/
+  - Blog: blog/
