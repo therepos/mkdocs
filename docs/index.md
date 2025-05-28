@@ -1,7 +1,6 @@
 # MkDocs
 
-This is a template to get a basic MkDocs site up and running quickly.  
-By default, it deploys via GitHub Actions to GitHub Pages.
+This is a template to get a basic MkDocs site up and running quickly. By default, it deploys via GitHub Actions to GitHub Pages.
 
 ---
 
