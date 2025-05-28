@@ -35,6 +35,7 @@ plugins:
   - search
   - awesome-pages
   - blog:
+      blog_dir: blog
       blog_toc: true
       post_date_format: medium
   - git-revision-date-localized:
