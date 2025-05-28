@@ -34,11 +34,7 @@ theme:
 plugins:
   - search
   - awesome-pages
-  - blog:
-      blog_dir: blog
-      blog_toc: true
-      post_dir: "{blog}/posts"
-      post_date_format: medium
+  - blog
   - git-revision-date-localized:
       type: timeago
   - redirects:
