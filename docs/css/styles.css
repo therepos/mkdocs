@@ -8,17 +8,6 @@
   --md-accent-fg-color: #0052cc;
 }
 
-body, .md-typeset {
-  font-size: 0.9em;
-  font-feature-settings: "kern", "liga";
-  hyphens: auto;
-  text-align: justify;
-  text-justify: inter-word;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-rendering: optimizeLegibility;
-}
-
 /* ======================================== 
    Theme
 =========================================*/ 
@@ -58,6 +47,39 @@ body, .md-typeset {
    Headings
 =========================================*/ 
 
+/* @font-face {
+  font-family: 'Inter';
+  src: url('../fonts/inter.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('../fonts/interitalic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+} */
+
+/* body, .md-typeset {
+  font-size: 0.9em;
+  font-feature-settings: "kern", "liga";
+  hyphens: auto;
+  text-align: justify;
+  text-justify: inter-word;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+} */
+/* Set Inter as the default font */
+body,
+.md-typeset,
+.md-nav__link,
+.md-nav--secondary .md-nav__link {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Headings */
 .md-typeset h1 {
   font-size: 40px;
   font-weight: 600;
@@ -77,11 +99,14 @@ body, .md-typeset {
   margin-bottom: 1rem;
 }
 
+/* Paragraphs */
 .md-typeset p {
   font-size: 16px;
   font-weight: 400;
+  line-height: 1.6;
 }
 
+/* General heading styling */
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3,

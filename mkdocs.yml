@@ -28,7 +28,7 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
   font:
-    text: Roboto
+    text: Inter
     code: Roboto Mono
 
 plugins:
@@ -42,7 +42,7 @@ markdown_extensions:
       permalink: true
 
 extra_css:
-  - extra/styles.css
+  - css/styles.css
 
 extra:
   translation:
