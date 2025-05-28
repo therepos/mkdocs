@@ -1,6 +1,6 @@
 # MkDocs
 
-This is a template to get a basic MkDocs site up and running quickly. By default, it deploys via GitHub Actions to GitHub Pages.
+This is a template to deploy a basic MkDocs site on GitHub Pages.
 
 ---
 
@@ -13,7 +13,7 @@ To get started:
 - Trigger the GitHub Actions workflow by editing any Markdown file.  
 - **Settings** > **Pages** > **Deploy from Branch** > **gh-pages**  
 - **Settings** > **Actions** > **General** > **Workflow permission** > **Read and write permissions**   
-4. Visit your published site e.g. https://therepos.github.io/mkdocs
+4. Visit your published site e.g. https://therepos.github.io/template-mkdocs
 
 ---
 
