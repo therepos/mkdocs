@@ -11,9 +11,9 @@ To get started:
 1. Click the `Use this template` button (top-right).  
 2. Choose `Create a new repository`.  
 3. Enable GitHub Pages:  
-- Trigger the GitHub Actions workflow by editing any Markdown file.  
-- `Settings` > `Pages` > `Deploy from Branch` > `gh-pages`  
-- `Settings` > `Actions` > `General` > `Workflow permission` > `Read and write permissions`   
+ - Trigger the GitHub Actions workflow by editing any Markdown file.  
+ - `Settings` > `Pages` > `Deploy from Branch` > `gh-pages`  
+ - `Settings` > `Actions` > `General` > `Workflow permission` > `Read and write permissions`   
 4. Visit your published site at: `https://<your-username>.github.io/<your-repo-name>/`  
 5. For example: https://therepos.github.io/mkdocs
 
