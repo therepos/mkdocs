@@ -17,4 +17,6 @@ Content
 <!-- more -->
 
 Reveal more
+<!-- material/tags { include: [Foo, Bar] } -->
+
 ...
