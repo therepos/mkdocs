@@ -21,3 +21,11 @@ Thumbs.db
 
 # VS Code settings (optional)
 .vscode/
+
+# Ignore hashed CSS/JS files (e.g. styles.abcd1234.css)
+docs/css/*.????????.css
+docs/js/*.????????.js
+
+# Keep original source files
+!docs/css/*.css
+!docs/js/*.js
