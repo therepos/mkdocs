@@ -116,6 +116,17 @@ body,
   color: var(--custom-heading-color);
 }
 
+/* Codeblocks: Wrap */
+pre code {
+  white-space: pre-wrap;       
+  word-break: break-word;      
+  overflow-wrap: break-word;   
+}
+
+pre {
+  padding: 1rem;
+}
+
 /* ======================================== 
    Custom Text
 =========================================*/ 
