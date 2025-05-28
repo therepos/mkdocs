@@ -67,6 +67,7 @@ body,
 .md-nav__link,
 .md-nav--secondary .md-nav__link {
   font-family: 'Inter', sans-serif;
+  line-height: 1.75;
   text-align: justify;
   /* text-justify: inter-word; */
   font-feature-settings: "kern", "liga";
