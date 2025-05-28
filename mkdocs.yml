@@ -52,7 +52,3 @@ extra_css:
 extra:
   translation:
     banner: false
-
-nav:
-  - About: about/
-  - Blog: blog/
