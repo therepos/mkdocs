@@ -5,7 +5,8 @@ import yaml
 
 # === Config ===
 target_dirs = {
-    'css': 'docs/css'
+    'css': 'docs/css' 
+    # 'js': 'docs/js' 
 }
 mkdocs_yml = 'mkdocs.yml'
 
