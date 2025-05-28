@@ -56,7 +56,6 @@ body,
   text-rendering: optimizeLegibility;
 }
 
-/* Headings */
 .md-typeset h1 {
   font-size: 40px;
   font-weight: 600;
@@ -76,7 +75,6 @@ body,
   margin-bottom: 1rem;
 }
 
-/* Paragraphs */
 .md-typeset p {
   font-size: 16px;
   font-weight: 400;
@@ -85,7 +83,6 @@ body,
   hyphens: auto;
 }
 
-/* General heading styling */
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3,
