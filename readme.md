@@ -2,8 +2,6 @@
 
 This is a template to deploy a basic MkDocs site on GitHub Pages.
 
----
-
 ## GitHub Pages
 To get started:
 
@@ -14,8 +12,6 @@ To get started:
 - **Settings** > **Pages** > **Deploy from Branch** > **gh-pages**  
 - **Settings** > **Actions** > **General** > **Workflow permission** > **Read and write permissions**   
 4. Visit your published site e.g. https://therepos.github.io/template-mkdocs
-
----
 
 ## Local Deployment
 1\. To deploy it locally::  
