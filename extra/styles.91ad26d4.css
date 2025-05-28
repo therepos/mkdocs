@@ -32,28 +32,24 @@ body, .md-typeset {
   --custom-heading-color: #ffffff;
 }
 
-/* ======================================== 
-   TOC
-=========================================*/ 
-
 
 /* ======================================== 
    Navigation Bar
 =========================================*/ 
 
-/* Left and right nav: base link style */
+/* Base style */
 .md-nav__item .md-nav__link {
-  color: #c0c0c0;              /* Light gray like GitBook */
+  color: #c0c0c0;              
   font-weight: 400;
 }
 
-/* Active link (blue and bolder) */
+/* Active link */
 .md-nav__item .md-nav__link--active {
-  color: #1a73e8;              /* GitBook-style blue */
+  color: #1a73e8;              
   font-weight: 600;
 }
 
-/* Hover effect: slightly darker */
+/* Hover */
 .md-nav__item .md-nav__link:hover {
   color: #333333;
 }
@@ -62,26 +58,30 @@ body, .md-typeset {
    Headings
 =========================================*/ 
 
-/* Headings */
 .md-typeset h1 {
-  font-size: 2em;
-  font-weight: 300;
+  font-size: 40px;
+  font-weight: 600;
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
 }
 
 .md-typeset h2 {
-  font-size: 1.5em;
-  font-weight: 300;
-  margin-top: 1.6em;
-  margin-bottom: 0.8em;
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 1rem;
 }
 
 .md-typeset h3 {
-  font-weight: 500;
-  margin-top: 1.6em;
-  margin-bottom: 0.8em;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 1rem;
 }
 
-/* Unified heading style */
+.md-typeset p {
+  font-size: 16px;
+  font-weight: 400;
+}
+
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3,
@@ -92,17 +92,6 @@ body, .md-typeset {
   letter-spacing: 0.01em;
 }
 
-/* Ensure fixed header doesn't overlap anchor targets */
-.md-typeset h1:target,
-.md-typeset h2:target,
-.md-typeset h3:target,
-.md-typeset h4:target,
-.md-typeset h5:target,
-.md-typeset h6:target {
-  scroll-margin-top: 100px;
-}
-
-
 /* ======================================== 
    Custom Text
 =========================================*/ 
@@ -111,6 +100,6 @@ h7 {
   color: #1a73e8;         
   font-size: inherit;         
   font-weight: normal;    
-  display: inline;        /* Inline, not block */
-  margin: 0;              /* Prevent spacing issues */
+  display: inline;        
+  margin: 0;              
 }
