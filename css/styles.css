@@ -123,6 +123,11 @@ pre code {
   overflow-wrap: break-word;   
 }
 
+pre {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
 /* ======================================== 
    Custom Text
 =========================================*/ 
