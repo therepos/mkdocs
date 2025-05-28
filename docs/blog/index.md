@@ -1,3 +1,3 @@
-# Sample
+# Blog
 
 Sample markdown file.
