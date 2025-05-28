@@ -37,8 +37,6 @@ plugins:
   - blog
   - git-revision-date-localized:
       type: timeago
-      enable_creation_date: true
-      fallback_to_build_date: true
   - redirects:
       redirect_maps:
         index.md: about/index.md
