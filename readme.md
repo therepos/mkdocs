@@ -42,7 +42,5 @@ git push
 mkdocs build
 ```
 
----
-
 ## References
 [Official MkDocs Guide](https://www.mkdocs.org/)
