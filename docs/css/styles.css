@@ -63,20 +63,22 @@
 
 /* body, .md-typeset {
   font-size: 0.9em;
-  font-feature-settings: "kern", "liga";
   hyphens: auto;
-  text-align: justify;
   text-justify: inter-word;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-rendering: optimizeLegibility;
+
 } */
+
 /* Set Inter as the default font */
 body,
 .md-typeset,
 .md-nav__link,
 .md-nav--secondary .md-nav__link {
   font-family: 'Inter', sans-serif;
+  text-align: justify;
+  font-feature-settings: "kern", "liga";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }
 
 /* Headings */
