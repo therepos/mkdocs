@@ -67,9 +67,6 @@ body,
 .md-nav__link,
 .md-nav--secondary .md-nav__link {
   font-family: 'Inter', sans-serif;
-  line-height: 1.75;
-  text-align: justify;
-  /* text-justify: inter-word; */
   font-feature-settings: "kern", "liga";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -100,6 +97,9 @@ body,
 .md-typeset p {
   font-size: 16px;
   font-weight: 400;
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
 }
 
 /* General heading styling */
