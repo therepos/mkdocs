@@ -38,6 +38,7 @@ plugins:
         
 markdown_extensions:
   - admonition
+  - pymdownx.magiclink
   - toc:
       permalink: true
 
