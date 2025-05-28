@@ -35,6 +35,7 @@ plugins:
   - search
   - awesome-pages
   - blog
+  - tags
   - git-revision-date-localized:
       type: timeago
   - redirects:
