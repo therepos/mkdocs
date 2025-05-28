@@ -11,4 +11,10 @@ tags:
 ---
 
 # Hello world!
+
+Content
+
+<!-- more -->
+
+Reveal more
 ...
