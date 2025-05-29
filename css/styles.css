@@ -90,6 +90,16 @@ body,
   color: var(--custom-heading-color);
 }
 
+.md-typeset ul,
+.md-typeset ol {
+  margin-left: 0;
+  padding-left: 1rem;
+}
+
+.md-typeset li {
+  padding-left: 0.5em;
+}
+
 /* Codeblocks: Wrap */
 pre code {
   white-space: pre-wrap;       
