@@ -3,7 +3,7 @@ This is a template to deploy a basic [MkDocs](https://squidfunk.github.io/mkdocs
 
 ## Deployment
 
-### 1.GitHub Pages
+### 1. GitHub Pages
 To get started:
 
 1\. Click the **Use this template** button (top-right).  
