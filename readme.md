@@ -11,7 +11,7 @@ To get started:
 - Trigger the GitHub Actions workflow by editing any Markdown file.  
 - <em>Settings</em> > <em>Pages</em> > <em>Deploy from Branch</em> > **gh-pages**.
 - <em>Settings</em> > <em>Actions</em> > <em>General</em> > <em>Workflow permission</em> > **Read and write permissions**.  
-4\.  Visit your published site e.g. https://therepos.github.io/template-mkdocs
+4\  Visit your published site e.g. https://therepos.github.io/template-mkdocs
 
 ## Local Deployment
 1\. To deploy it locally::  
