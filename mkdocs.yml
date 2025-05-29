@@ -45,6 +45,8 @@ plugins:
 markdown_extensions:
   - admonition
   - pymdownx.magiclink
+  - pymdownx.highlight
+  - pymdownx.copybutton
   - toc:
       permalink: true
 
