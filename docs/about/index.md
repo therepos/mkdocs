@@ -28,28 +28,26 @@ To get started, open the [repository](https://github.com/therepos/template-mkdoc
 git clone https://github.com/therepos/template-mkdocs.git
 ```
 
-2\. Install npm packages:
+2\. Install dependencies:
 ```
 cd template-mkdocs
-npm install
-npm run start
+pip install -r requirements.txt
+
 ```
 
 3\. Deploy locally:
 ```bash
-npm run build
+mkdocs build
 ```
 
 4\. Push to GitHub repo:
 ```bash
-git add . 
-git commit -m "Updates"
-git push
+mkdocs gh-deploy
 ```
 
 5\. (Optional) Preview site locally only:
 ```bash
-npm run serve
+mkdocs serve
 ```
 
 ## 2. Guides
