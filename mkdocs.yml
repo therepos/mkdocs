@@ -61,4 +61,8 @@ extra:
   translation:
     banner: false
 
-copyright: Licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+copyright: |
+    <span style="display: inline-flex; align-items: center;">
+      <img src="https://licensebuttons.net/l/by/4.0/88x31.png" alt="Creative Commons License" style="height: 24px; margin-right: 8px;">
+      © 2025 by Your Name or Organization — Licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+    </span>
