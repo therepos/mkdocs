@@ -12,11 +12,11 @@ To get started, open the [repository](https://github.com/therepos/template-mkdoc
 
 3. Enable GitHub Pages:  
     
-    &nbsp;&nbsp;_Settings_ > _Pages_ > _Deploy from Branch_ > **gh-pages**.  
+    &nbsp;_Settings_ > _Pages_ > _Deploy from Branch_ > **gh-pages**.  
 
 4. Grant read and write permission:  
 
-    &nbsp;&nbsp;&nbsp;_Settings_ > _Actions_ > _General_ > _Workflow permission_ > **Read and write permissions**.
+    &nbsp;_Settings_ > _Actions_ > _General_ > _Workflow permission_ > **Read and write permissions**.
 
 5. Commit any file changes to publish the updates.  
 
