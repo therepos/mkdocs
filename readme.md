@@ -67,7 +67,7 @@ template-mkdocs
 ├── .github/
 ├── docs/
 │   ├── about/                  # your section
-│   │   ├── .pages
+│   │   ├── .pages              # set section title here
 │   │   └── index.md            # your document
 │   └── blog/posts/
 │       └── blog.md             # your blog post 
