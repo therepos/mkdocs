@@ -104,16 +104,25 @@ li {
 }
 
 /* Codeblocks: Wrap */
+pre {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
 pre code {
   white-space: pre-wrap;       
   word-break: break-word;      
   overflow-wrap: break-word;   
 }
 
-pre {
-  padding-left: 1rem;
-  padding-right: 1rem;
+/* Codeblocks: Theme */
+pre, pre code {
+  background: #f8f9fa;        
+  border-radius: 6px;         
+  padding: 1rem;
+  overflow-x: auto;
 }
+
 
 /* ======================================== 
    Custom Text
