@@ -35,7 +35,11 @@ theme:
 plugins:
   - search
   - awesome-pages
-  - blog
+  - blog:
+      archive_date_format: MMM yyyy
+      blog_toc: true
+      post_date_format: medium
+      archive_name: Timeline
   - tags
   - git-revision-date-localized:
       type: timeago
