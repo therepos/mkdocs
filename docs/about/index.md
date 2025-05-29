@@ -56,7 +56,7 @@ mkdocs gh-deploy
 
 6\.&nbsp;&nbsp; Push to GitHub repo:
 
-```bash
+```git
 git add . 
 git commit -m "Updates"
 git push
