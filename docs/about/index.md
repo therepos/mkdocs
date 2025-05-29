@@ -38,25 +38,25 @@ pip install -r requirements.txt
 
 3\.&nbsp;&nbsp; Preview site locally:
 
-```bash
+```
 mkdocs serve
 ```
 
 4\.&nbsp;&nbsp; Deploy locally:
 
-```bash
+```
 mkdocs build
 ```
 
 5\.&nbsp;&nbsp; Push to gh-pages:
 
-```bash
+```
 mkdocs gh-deploy
 ```
 
 6\.&nbsp;&nbsp; Push to GitHub repo:
 
-```git
+```
 git add . 
 git commit -m "Updates"
 git push
