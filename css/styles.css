@@ -99,10 +99,6 @@ ul, ol {
   padding-left: 0;
 }
 
-li {
-  padding-left: 0.5em;
-}
-
 /* Codeblocks: Wrap */
 .md-typeset pre {
   padding-left: 1rem;
