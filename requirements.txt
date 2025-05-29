@@ -5,3 +5,4 @@ mkdocs-redirects
 mkdocs-awesome-pages-plugin
 pymdown-extensions
 pyyaml
+pygments

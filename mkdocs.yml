@@ -46,6 +46,7 @@ plugins:
 markdown_extensions:
   - admonition
   - pymdownx.magiclink
+  - codehilite
   - toc:
       permalink: true
 
