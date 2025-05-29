@@ -1,9 +1,9 @@
 # MkDocs
 This is a template to deploy a basic [MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/) documentation site on GitHub Pages.  
 
-## 1. Deployment
+## Deployment
 
-### 1.1. GitHub Pages
+### 1.GitHub Pages
 To get started:
 
 1\. Click the **Use this template** button (top-right).  
@@ -22,7 +22,7 @@ To get started:
 
 6\. Visit your published site e.g. https://therepos.github.io/template-mkdocs  
 
-### 1.2. Local Deployment
+### 2. Local Deployment
 1\. To deploy it locally:  
 ```
 git clone https://github.com/therepos/template-mkdocs.git
@@ -56,11 +56,11 @@ git commit -m "Updates"
 git push
 ```
 
-## 2. Guides
+## Guides
 
 To understand more about how to use or customise the site, please refer to the official [MkDocs Guides](https://squidfunk.github.io/mkdocs-material/getting-started/). 
 
-### 2.1. Structure
+### 1. Structure
 
 ```
 template-mkdocs
@@ -81,8 +81,8 @@ template-mkdocs
 └── requirements.txt
 ```
 
-## 3. License
+## License
 This project is licensed under MIT. If you find this template useful, please attribute a link to this repository.
 
-## 4. References
+## References
 - [MkDocs Catelog](https://github.com/mkdocs/catalog)
