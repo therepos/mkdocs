@@ -3,6 +3,7 @@ import hashlib
 import shutil
 import yaml
 
+# === Reduce caching ===
 # === Config ===
 target_dirs = {
     'css': 'docs/css' 

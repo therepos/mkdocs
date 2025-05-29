@@ -4,7 +4,7 @@ This is a template to deploy a basic [MkDocs](https://squidfunk.github.io/mkdocs
 ## Deployment
 
 ### GitHub Pages
-To get started, open the [repository](https://github.com/therepos/template-mkdocs) and follow the steps below:
+To get started, open the [repository](https://github.com/therepos/mkdocs) and follow the steps below:
 
 1. Click the **Use this template** button (top-right).  
 
@@ -20,19 +20,19 @@ To get started, open the [repository](https://github.com/therepos/template-mkdoc
 
 5. Commit any file changes to publish the updates.  
 
-6. Visit your published site e.g. https://therepos.github.io/template-mkdocs  
+6. Visit your published site e.g. https://therepos.github.io/mkdocs  
 
 ### Local Deployment
 1\.&nbsp;&nbsp; To deploy it locally:  
 
 ```
-git clone https://github.com/therepos/template-mkdocs.git
+git clone https://github.com/therepos/mkdocs.git
 ```
 
 2\.&nbsp;&nbsp; Install dependencies:
 
 ```
-cd template-mkdocs  
+cd mkdocs  
 pip install -r requirements.txt
 ```
 
@@ -69,7 +69,7 @@ To understand more about how to use or customise the site, please refer to the o
 ### Structure
 
 ```
-template-mkdocs
+mkdocs
 ├── .github/
 ├── docs/
 │   ├── about/                  # your section
