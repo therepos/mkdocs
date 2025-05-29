@@ -94,6 +94,10 @@ body,
   margin-left: 0;
 }
 
+[dir=ltr] .md-typeset ol li, [dir=ltr] .md-typeset ul li {
+    margin-left: 1rem;
+}
+
 ul, ol {
   margin-left: 0;
   padding-left: 0;
