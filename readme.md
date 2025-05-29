@@ -6,50 +6,50 @@ This is a template to deploy a basic [MkDocs](https://squidfunk.github.io/mkdocs
 ### GitHub Pages
 To get started:
 
-1\. Click the **Use this template** button (top-right).  
+1. Click the **Use this template** button (top-right).  
 
-2\. Choose **Create a new repository**.  
+2. Choose **Create a new repository**.  
 
-3\. Enable GitHub Pages:  
+3. Enable GitHub Pages:  
 
 &nbsp;&nbsp;&nbsp; _Settings_ > _Pages_ > _Deploy from Branch_ > **gh-pages**.  
 
-4\. Grant read and write permission:  
+4. Grant read and write permission:  
 
 &nbsp;&nbsp;&nbsp; _Settings_ > _Actions_ > _General_ > _Workflow permission_ > **Read and write permissions**.
 
-5\. Commit any file changes to publish the updates.  
+5. Commit any file changes to publish the updates.  
 
-6\. Visit your published site e.g. https://therepos.github.io/template-mkdocs  
+6. Visit your published site e.g. https://therepos.github.io/template-mkdocs  
 
 ### Local Deployment
-1\. To deploy it locally:  
+1. To deploy it locally:  
 ```
 git clone https://github.com/therepos/template-mkdocs.git
 ```
 
-2\. Install dependencies:
+2. Install dependencies:
 ```
 cd template-mkdocs
 pip install -r requirements.txt
 ```
 
-3\. Preview site locally:
+3. Preview site locally:
 ```bash
 mkdocs serve
 ```
 
-4\. Deploy locally:
+4. Deploy locally:
 ```bash
 mkdocs build
 ```
 
-5\. Push to gh-pages:
+5. Push to gh-pages:
 ```bash
 mkdocs gh-deploy
 ```
 
-6\. Push to GitHub repo:
+6. Push to GitHub repo:
 ```bash
 git add . 
 git commit -m "Updates"
