@@ -104,23 +104,20 @@ li {
 }
 
 /* Codeblocks: Wrap */
-pre {
+.md-typeset pre {
   padding-left: 1rem;
   padding-right: 1rem;
 }
 
-pre code {
-  white-space: pre-wrap;       
-  word-break: break-word;      
-  overflow-wrap: break-word;   
-}
-
-/* Codeblocks: Theme */
-pre, pre code {
-  background: #f8f9fa;        
-  border-radius: 6px;         
+.md-typeset pre,
+.md-typeset pre code {
+  background: #f8f9fa;
+  border-radius: 6px;
   padding: 1rem;
   overflow-x: auto;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 
 
