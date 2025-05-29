@@ -95,7 +95,7 @@ body,
 }
 
 [dir=ltr] .md-typeset ol li, [dir=ltr] .md-typeset ul li {
-    padding-left: 1em;
+    padding-left: 0.5em;
 }
 
 ul, ol {
