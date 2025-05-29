@@ -12,7 +12,7 @@ To get started, open the [repository](https://github.com/therepos/template-mkdoc
 
 3. Enable GitHub Pages:  
     
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Settings_ > _Pages_ > _Deploy from Branch_ > **gh-pages**.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Settings_ > _Pages_ > _Deploy from Branch_ > **gh-pages**.  
 
 4. Grant read and write permission:  
 
@@ -25,10 +25,10 @@ To get started, open the [repository](https://github.com/therepos/template-mkdoc
 ### Local Deployment
 1. To deploy it locally:  
 
-    ```
+    <pre>
     git clone https://github.com/therepos/template-mkdocs.git
-    
-    ```
+
+    </pre>
 
 2. Install dependencies:
 
