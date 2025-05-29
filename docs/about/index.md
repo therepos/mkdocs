@@ -27,13 +27,12 @@ To get started, open the [repository](https://github.com/therepos/template-mkdoc
 
     <pre>
     git clone https://github.com/therepos/template-mkdocs.git
-
     </pre>
 
 2. Install dependencies:
 
     ```
-    cd template-mkdocs
+    cd template-mkdocs  
     pip install -r requirements.txt
     ```
 
