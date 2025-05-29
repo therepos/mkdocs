@@ -32,22 +32,28 @@ git clone https://github.com/therepos/template-mkdocs.git
 ```
 cd template-mkdocs
 pip install -r requirements.txt
-
 ```
 
-3\. Deploy locally:
+3\. Preview site locally:
+```bash
+mkdocs serve
+```
+
+4\. Deploy locally:
 ```bash
 mkdocs build
 ```
 
-4\. Push to GitHub repo:
+5\. Push to gh-pages:
 ```bash
 mkdocs gh-deploy
 ```
 
-5\. (Optional) Preview site locally only:
+6\. Push to GitHub repo:
 ```bash
-mkdocs serve
+git add . 
+git commit -m "Updates"
+git push
 ```
 
 ## 2. Guides
