@@ -91,7 +91,7 @@ body,
 }
 
 .md-typeset ol {
-  padding-inline-start: 1rem !important;
+  padding-inline-start: 0;
 }
 
 ul, ol {
