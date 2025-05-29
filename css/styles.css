@@ -24,28 +24,21 @@
 
 /* Base style */
 .md-nav__item .md-nav__link {
-  color: #c0c0c0;              
+  color: #c0c0c0;
+  font-size: 13px;              
   font-weight: 400;
 }
 
 /* Active link */
 .md-nav__item .md-nav__link--active {
-  color: #1a73e8;              
-  font-weight: 600;
+  color: #1a73e8;
+  font-size: 13px;              
+  font-weight: 500;
 }
 
 /* Hover */
 .md-nav__item .md-nav__link:hover {
   color: #333333;
-}
-
-/* ======================================== 
-   Table of Content
-=========================================*/ 
-
-.md-nav__list {
-    max-width: none;
-    width: 250px; /* Adjust as needed */
 }
 
 /* ======================================== 
