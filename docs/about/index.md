@@ -16,7 +16,7 @@ To get started, open the [repository](https://github.com/therepos/template-mkdoc
 
 4. Grant read and write permission:  
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Settings_ > _Actions_ > _General_ > _Workflow permission_ > **Read and write permissions**.
+    &nbsp;&nbsp;&nbsp;&nbsp;_Settings_ > _Actions_ > _General_ > _Workflow permission_ > **Read and write permissions**.
 
 5. Commit any file changes to publish the updates.  
 
