@@ -22,8 +22,8 @@ To get started, open the [repository](https://github.com/therepos/template-mkdoc
 
 6\. Visit your published site e.g. https://therepos.github.io/template-mkdocs  
 
-### 1.2. (Alternative) Local Deployment
-1\. To deploy it locally::  
+### 1.2. Local Deployment
+1\. To deploy it locally:  
 ```
 git clone https://github.com/therepos/template-mkdocs.git
 ```
