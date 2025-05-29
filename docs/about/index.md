@@ -31,36 +31,36 @@ To get started, open the [repository](https://github.com/therepos/template-mkdoc
 
 2\.&nbsp;&nbsp; Install dependencies:
 
-    ```
+```
     cd template-mkdocs  
     pip install -r requirements.txt
-    ```
+```
 
 3\.&nbsp;&nbsp; Preview site locally:
 
-    ```bash
+```bash
     mkdocs serve
-    ```
+```
 
 4\.&nbsp;&nbsp; Deploy locally:
 
-    ```bash
+```bash
     mkdocs build
-    ```
+```
 
 5\.&nbsp;&nbsp; Push to gh-pages:
 
-    ```bash
+```bash
     mkdocs gh-deploy
-    ```
+```
 
 6\.&nbsp;&nbsp; Push to GitHub repo:
 
-    ```bash
+```bash
     git add . 
     git commit -m "Updates"
     git push
-    ```
+```
 
 ## Guides
 
