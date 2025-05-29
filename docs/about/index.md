@@ -12,11 +12,11 @@ To get started, open the [repository](https://github.com/therepos/template-mkdoc
 
 3. Enable GitHub Pages:  
     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Settings_ > _Pages_ > _Deploy from Branch_ > **gh-pages**.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Settings_ > _Pages_ > _Deploy from Branch_ > **gh-pages**.  
 
 4. Grant read and write permission:  
 
-&nbsp;&nbsp;_Settings_ > _Actions_ > _General_ > _Workflow permission_ > **Read and write permissions**.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Settings_ > _Actions_ > _General_ > _Workflow permission_ > **Read and write permissions**.
 
 5. Commit any file changes to publish the updates.  
 
@@ -38,29 +38,29 @@ To get started, open the [repository](https://github.com/therepos/template-mkdoc
 
 3. Preview site locally:
 
-```bash
-mkdocs serve
-```
+    ```bash
+    mkdocs serve
+    ```
 
 4. Deploy locally:
 
-```bash
-mkdocs build
-```
+    ```bash
+    mkdocs build
+    ```
 
 5. Push to gh-pages:
 
-```bash
-mkdocs gh-deploy
-```
+    ```bash
+    mkdocs gh-deploy
+    ```
 
 6. Push to GitHub repo:
 
-```bash
-git add . 
-git commit -m "Updates"
-git push
-```
+    ```bash
+    git add . 
+    git commit -m "Updates"
+    git push
+    ```
 
 ## Guides
 
