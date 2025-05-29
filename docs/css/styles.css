@@ -90,9 +90,8 @@ body,
   color: var(--custom-heading-color);
 }
 
-.md-typeset ol, ul {
-  padding-inline-start: 0;
-  margin-left: 0;
+[dir=ltr] .md-typeset ol, [dir=ltr] .md-typeset ul {
+    margin-left: 0;
 }
 
 ul, ol {
