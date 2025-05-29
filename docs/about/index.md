@@ -83,3 +83,6 @@ template-mkdocs
 
 ## 3. License
 This project is licensed under MIT. If you find this template useful, please attribute a link to this repository.
+
+## 4. References
+- [MkDocs Catelog](https://github.com/mkdocs/catalog)
