@@ -91,4 +91,4 @@ template-mkdocs
 This project is licensed under MIT. If you find this template useful, please attribute a link to this repository.
 
 ## References
-- [MkDocs Catelog](https://github.com/mkdocs/catalog)
+- [MkDocs Catalog](https://github.com/mkdocs/catalog)
