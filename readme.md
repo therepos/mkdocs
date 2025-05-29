@@ -3,7 +3,7 @@ This is a template to deploy a basic [MkDocs](https://squidfunk.github.io/mkdocs
 
 ## Deployment
 
-#### GitHub Pages
+### GitHub Pages
 To get started:
 
 1\. Click the **Use this template** button (top-right).  
@@ -22,7 +22,7 @@ To get started:
 
 6\. Visit your published site e.g. https://therepos.github.io/template-mkdocs  
 
-#### Local Deployment
+### Local Deployment
 1\. To deploy it locally:  
 ```
 git clone https://github.com/therepos/template-mkdocs.git
