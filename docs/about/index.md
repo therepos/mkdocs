@@ -23,7 +23,7 @@ To get started, open the [repository](https://github.com/therepos/template-mkdoc
 6. Visit your published site e.g. https://therepos.github.io/template-mkdocs  
 
 ### Local Deployment
-1. To deploy it locally:  
+1\.&nbsp; To deploy it locally:  
 
    ```bash
    git clone https://github.com/therepos/template-mkdocs.git
