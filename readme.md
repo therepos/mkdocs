@@ -5,7 +5,7 @@ This is a template to deploy a basic MkDocs site on GitHub Pages.
 ## GitHub Pages
 To get started:
 
-1. Click the **Use this template** button (top-right).  
+1\. Click the **Use this template** button (top-right).  
 2. Choose **Create a new repository**.  
 3. Enable GitHub Pages:  
 - Trigger the GitHub Actions workflow by editing any Markdown file.  
