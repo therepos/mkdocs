@@ -1,5 +1,5 @@
 # MkDocs
-This is a template to deploy a basic [MkDocs](https://www.mkdocs.org/) documentation site on GitHub Pages.  
+This is a template to deploy a basic [MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/) documentation site on GitHub Pages.  
 
 ## 1. Deployment
 
@@ -58,7 +58,7 @@ git push
 
 ## 2. Guides
 
-To understand more about how to use or customise the site, please refer to the official [MkDocs Guides](https://www.mkdocs.org/). 
+To understand more about how to use or customise the site, please refer to the official [MkDocs Guides](https://squidfunk.github.io/mkdocs-material/getting-started/). 
 
 ### 2.1. Structure
 
