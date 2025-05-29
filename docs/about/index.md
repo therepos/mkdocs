@@ -23,38 +23,38 @@ To get started, open the [repository](https://github.com/therepos/template-mkdoc
 6. Visit your published site e.g. https://therepos.github.io/template-mkdocs  
 
 ### Local Deployment
-1\.&nbsp; To deploy it locally:  
+1\.&nbsp;&nbsp; To deploy it locally:  
 
    ```bash
    git clone https://github.com/therepos/template-mkdocs.git
    ```
 
-2. Install dependencies:
+2\.&nbsp;&nbsp; Install dependencies:
 
     ```
     cd template-mkdocs  
     pip install -r requirements.txt
     ```
 
-3. Preview site locally:
+3\.&nbsp;&nbsp; Preview site locally:
 
     ```bash
     mkdocs serve
     ```
 
-4. Deploy locally:
+4\.&nbsp;&nbsp; Deploy locally:
 
     ```bash
     mkdocs build
     ```
 
-5. Push to gh-pages:
+5\.&nbsp;&nbsp; Push to gh-pages:
 
     ```bash
     mkdocs gh-deploy
     ```
 
-6. Push to GitHub repo:
+6\.&nbsp;&nbsp; Push to GitHub repo:
 
     ```bash
     git add . 
