@@ -106,10 +106,11 @@ pre {
    Custom Text
 =========================================*/ 
 
-h7 {
-  color: #1a73e8;         
-  font-size: inherit;         
-  font-weight: normal;    
-  display: inline;        
-  margin: 0;              
+mark {
+  background-color: transparent; 
+  color: darkred;
+  font-size: inherit;
+  font-weight: normal;
+  display: inline;
+  margin: 0;
 }
