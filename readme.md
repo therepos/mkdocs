@@ -43,7 +43,7 @@ git push
 mkdocs build
 ```
 
-## Licence
+## License
 This project is licensed under MIT. If you find this template useful and use it in your own project, a link back to the original repo would be appreciated!
 
 ## References
