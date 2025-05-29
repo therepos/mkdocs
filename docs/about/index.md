@@ -1,4 +1,7 @@
-# 1. Deployment
+# MkDocs
+This is a template to deploy a basic [MkDocs](https://www.mkdocs.org/) documentation site on GitHub Pages.  
+
+## 1. Deployment
 
 ### 1.1. GitHub Pages
 To get started, open the [repository](https://github.com/therepos/template-mkdocs) and follow the steps below:
@@ -9,11 +12,11 @@ To get started, open the [repository](https://github.com/therepos/template-mkdoc
 
 3\. Enable GitHub Pages:  
 
-&nbsp;&nbsp;&nbsp; <em>Settings</em> > <em>Pages</em> > <em>Deploy from Branch</em> > **gh-pages**.  
+&nbsp;&nbsp;&nbsp; _Settings_ > _Pages_ > _Deploy from Branch_ > **gh-pages**.  
 
 4\. Grant read and write permission:  
 
-&nbsp;&nbsp;&nbsp; <em>Settings</em> > <em>Actions</em> > <em>General</em> > <em>Workflow permission</em> > **Read and write permissions**.
+&nbsp;&nbsp;&nbsp; _Settings_ > _Actions_ > _General_ > _Workflow permission_ > **Read and write permissions**.
 
 5\. Commit any file changes to publish the updates.  
 
@@ -55,21 +58,6 @@ To understand more about how to use or customise the site, please refer to the o
 
 ### 2.1 Structure
 
-```
-template-docusaurus
-├── .github/
-├── blog/  
-├── └── yyyy-mm-dd-post.md      # your blog post            
-├── docs/               
-│   └── about/                  # your section
-│       └── index.md            # your document
-├── src/
-├── static/
-├── docusaurus.config.js
-├── package.json
-├── readme.md           
-└── sidebars.js
-```
 ```
 template-mkdocs
 ├── .github/
