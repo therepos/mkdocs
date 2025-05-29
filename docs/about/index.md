@@ -27,6 +27,7 @@ To get started, open the [repository](https://github.com/therepos/template-mkdoc
 
    ```bash
    git clone https://github.com/therepos/template-mkdocs.git
+   ```
 
 2. Install dependencies:
 
