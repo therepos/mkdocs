@@ -76,7 +76,7 @@ mkdocs
 │   │   ├── .pages              # set section title here
 │   │   └── index.md            # your document
 │   └── blog/posts/
-│       └── blog.md             # your blog post 
+│       └── post.md             # your blog post 
 │   ├── css/
 │   └── fonts/
 ├── .gitignore
