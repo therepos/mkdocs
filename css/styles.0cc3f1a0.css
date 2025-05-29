@@ -90,13 +90,13 @@ body,
   color: var(--custom-heading-color);
 }
 
-.md-typeset ul,
-.md-typeset ol {
+ul,
+ol {
   margin-left: 0;
   padding-left: 0;
 }
 
-.md-typeset li {
+li {
   padding-left: 0.5em;
 }
 
