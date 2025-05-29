@@ -13,6 +13,7 @@ theme:
     - toc.follow
     - content.code.annotate
     - content.action.edit
+    - content.code.copy
 
   palette:
     - scheme: default
@@ -45,8 +46,6 @@ plugins:
 markdown_extensions:
   - admonition
   - pymdownx.magiclink
-  - pymdownx.highlight
-  - pymdownx.copybutton
   - toc:
       permalink: true
 
