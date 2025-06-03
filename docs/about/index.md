@@ -93,3 +93,4 @@ If you find this template useful, please attribute a link to this repository.
 
 ## Resources
 - [MkDocs Catalog](https://github.com/mkdocs/catalog)
+- [Sphinx Theme from Read the Docs](https://beancount.github.io/docs/index.html)
